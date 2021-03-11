@@ -1,9 +1,6 @@
 <h2 align="center"> <b>Hey there 👋, I'm <a href="https://github.com/PauloCarneiro99/">PauloCarneiro</a> </b> </h2>
 
-<div style="height: 300px;">
-    <div style="width: 50%; height: 100%;float:right;">
-        <img alt="welcome.giff" src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" />
-    </div>
+<div style="height: 300px; display:flex">
     <div style="width: 50%;height: 100%; float:left;"> 
         <h2> Who is PauloCarneiro99? </h2>
         <ul>
@@ -13,6 +10,9 @@
             <li> Serverless Enthusiastic </li>
             <li> ❤️🐕 Dog Lover 🐶❤️</li>
         </ul>
+    </div>
+    <div style="width: 50%; height: 100%;float:right;">
+        <img alt="welcome.giff" src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" />
     </div>
 </div>
 
