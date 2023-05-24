@@ -15,7 +15,7 @@
           src="https://images.emojiterra.com/openmoji/v12.2/512px/1f1e7-1f1f7.png"
         />
       </li>
-      <li>Data Engineer @ QuintoAndar</li>
+      <li>Data Engineer @ GSG</li>
       <li>Bachelor's Degree on Computer Scientist @ Universidade de São Paulo</li>
       <li>Serverless Enthusiastic</li>
       <li>❤️🐕 Dog Lover 🐶❤️</li>
@@ -48,4 +48,3 @@
     </a>
   </p>
 </div>
-i
